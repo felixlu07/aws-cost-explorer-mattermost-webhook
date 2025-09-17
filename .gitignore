@@ -42,3 +42,7 @@ run_manual_test.sh
 # Misc
 *.swp
 *.swo
+
+
+# Config file
+ecosystem.config.js
